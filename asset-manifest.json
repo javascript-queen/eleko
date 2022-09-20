@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/eleko/static/css/main.15e4e932.css",
+    "main.js": "/eleko/static/js/main.720351b7.js",
+    "static/media/video.mp4": "/eleko/static/media/video.fcfe22f2a3757dcd6d53.mp4",
+    "static/media/video3.mp4": "/eleko/static/media/video3.fcfe22f2a3757dcd6d53.mp4",
+    "static/media/agent3.jpg": "/eleko/static/media/agent3.f9505b81810f662c5c68.jpg",
+    "static/media/pic2.jpg": "/eleko/static/media/pic2.5f17862f63a0568732d6.jpg",
+    "static/media/agent2.jpg": "/eleko/static/media/agent2.8a5760bb32eb2a4f0df9.jpg",
+    "static/media/agent1.jpg": "/eleko/static/media/agent1.46987a6c69ba0d3da4c6.jpg",
+    "index.html": "/eleko/index.html",
+    "main.15e4e932.css.map": "/eleko/static/css/main.15e4e932.css.map",
+    "main.720351b7.js.map": "/eleko/static/js/main.720351b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e4e932.css",
+    "static/js/main.720351b7.js"
+  ]
+}
